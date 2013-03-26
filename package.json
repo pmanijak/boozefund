@@ -1,0 +1,19 @@
+{
+  "name": "boozefund",
+  "subdomain": "boozefund",
+  "domains": [
+    "boozefund.com",
+    "www.boozefund.com"
+  ],
+  "version": "0.0.1",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
